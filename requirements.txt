@@ -1,0 +1,8 @@
+tensorflow==2.4.1
+jedi==0.17.2
+pyfluidsynth
+svgwrite
+jupyter
+environment_kernels
+pydot==1.4.1
+matplotlib==3.3.4
